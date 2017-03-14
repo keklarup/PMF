@@ -5,7 +5,7 @@ Note: This is an ongoing project and all graphs, tables, and conclusions are sub
 
 Notebook 'PMF_TMS_Scrape_and_Study_Github.ipynb' may be used (by those with access) to scrape the Talent Management System of job postings and do some analysis of the results. Scraping results in a snapshot of the TMS's current available postings.
 
-Notebook 'Combined_Analysis_GitHub.ipynb' does analysis on a composite of several different snapshots. Most postings to the TMS up to 03/11/1988 are in this composite.
+Notebook 'Combined_Analysis_GitHub.ipynb' does analysis on a composite of several different snapshots. Most postings to the TMS up to 03/11/2017 are in this composite.
 
 From the second notebook, some interesting trends can be seen.
 
