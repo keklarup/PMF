@@ -9,7 +9,7 @@ Notebook 'Combined_Analysis_GitHub.ipynb' does analysis on a composite of severa
 
 From the second notebook, some interesting trends can be seen.
 
-First, the number of postings and positions posted on the TMS started quite slow, but rapidly grew before the virtual hiring fair held on 02/28/2017.
+First, the number of postings and positions posted on the TMS started quite slow, but rapidly grew before the virtual hiring fair held on 02/28/2017. (All graphs using recorded date through 3/11/2017)
 
 <img src="./PMF_GitHub/Composite_Number_Daily_Positions_and_Postings.png" />
 
