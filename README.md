@@ -1,7 +1,7 @@
 # PMF TMS Scraping and Analysis
 iPython notebooks for collecting and analyzing data on the Presidential Management Fellows program
 
-Note: This is an ongoing project and all graphs, tables, and conclusions are subject to change. For example, I just discovered some postings are being updated with different pay grades and/or ending dates. My current method of combining all snap shots only uses the information from the earliest recording of a particular job. I need to modify that to use the most recent snap shot from the TMS. This will affect some information in the csv file and in some graphs.
+Note: This is an ongoing project and all graphs, tables, and conclusions are subject to change. For example, I just discovered some postings are being updated with different pay grades and/or ending dates. My current method of combining all snap shots uses the most recent version of a posting. So it doesn't account for older versions of the post with different features AND it doesn't know when a posting was taken down before the closing date. <b>This is resulting in an overcount of the available postings and positions.</b> Currently working on mitigating that by incorporating checking if post is still available in future recordings of the TMS, and if not, flagging as prematurely closed and changing closing date to date of more recent recording. This is better, but still not ideal.
 
 Notebook 'PMF_TMS_Scrape_and_Study_Github.ipynb' may be used (by those with access) to scrape the Talent Management System of job postings and do some analysis of the results. Scraping results in a snapshot of the TMS's current available postings.
 
