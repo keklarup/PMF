@@ -1,20 +1,20 @@
 Listings,Position Title,Agency/Sub-Agency,Opening Date,Closing Date,Number of Positions,State,Series,GS-09,GS-11,GS-12,GS-13,Promotion Potential
 3,Research Analyst,Broadcasting Board of Governors,1/13/2017,12/13/2017,1,DC,0343,False,True,False,False,GS-13
 9,Management and Program Analyst,Department of the Treasury / Bureau of the Fiscal Service,1/18/2017,3/1/2017,1,DC,0343,False,True,True,False,GS-12
-25,Management and Program Analyst,Broadcasting Board of Governors,1/18/2017,1/17/2018,2,DC,0343,True,False,False,False,GS-13
-26,Management and Program Analyst,Broadcasting Board of Governors,1/18/2017,1/17/2018,2,DC,0343,False,True,False,False,GS-13
+25,Management and Program Analyst,Broadcasting Board of Governors,1/18/2017,3/07/2017,2,DC,0343,True,False,False,False,GS-13
+26,Management and Program Analyst,Broadcasting Board of Governors,1/18/2017,3/07/2017,2,DC,0343,False,True,False,False,GS-13
 30,Landscape Architect,Department of Agriculture / Forest Service,3/14/2017,3/18/2017,1,CA,0807,True,True,False,False,GS-11
 34,Policy Advisor,Department of the Treasury / Departmental Offices,2/16/2017,3/16/2017,1,DC,0301,False,True,False,False,GS-13
 37,CT All Source Analyst,Office of the Director of National Intelligence,2/3/2017,3/3/2017,1,VA,0132,True,False,False,False,GS-12
 38,Human Resources Specialist (Employee & Labor Relations),Department of Veterans Affairs / Veterans Health Administration,2017-02-09 00:00:00,2017-02-22 00:00:00,1,NY,201,False,True,False,False,GS-12
 39,Program Analyst,Office of the Director of National Intelligence,2/3/2017,3/3/2017,1,VA,0132,True,False,False,False,GS-12
 40,CT Operations Officer,Office of the Director of National Intelligence,2/3/2017,3/3/2017,1,VA,0132,True,False,False,False,GS-12
-41,North America Invasive Alien Species Coordinator/Program Analyst,Department of the Interior / Office of the Secretary of the Interior,2017-02-13 00:00:00,2017-12-31 00:00:00,1,DC,343,False,False,False,False,GS-12
-44,Arctic Invasive Alien Species Coordinator/Program Analyst,Department of the Interior / Office of the Secretary of the Interior,2017-02-13 00:00:00,2017-12-31 00:00:00,1,DC,343,False,False,False,False,GS-12
+41,North America Invasive Alien Species Coordinator/Program Analyst,Department of the Interior / Office of the Secretary of the Interior,2017-02-13 00:00:00,2/28/2017,1,DC,343,False,False,False,False,GS-12
+44,Arctic Invasive Alien Species Coordinator/Program Analyst,Department of the Interior / Office of the Secretary of the Interior,2017-02-13 00:00:00,2/28/2017,1,DC,343,False,False,False,False,GS-12
 45,Arctic Invasive Alien Species Coordinator/Program Analyst,Department of the Interior,2/13/2017,12/31/2017,1,DC,0343,True,True,True,False,GS-12
-46,State Coordinator/Program Analyst,Department of the Interior / Office of the Secretary of the Interior,2017-02-13 00:00:00,2017-12-31 00:00:00,1,DC,343,False,False,False,False,GS-12
-47,US Territories Coordinator/Program Analyst,Department of the Interior / Office of the Secretary of the Interior,2017-02-13 00:00:00,2017-12-31 00:00:00,1,DC,343,False,False,False,False,GS-12
-48,Tribal Coordinator/Program Analyst,Department of the Interior / Office of the Secretary of the Interior,2017-02-13 00:00:00,2017-12-31 00:00:00,1,DC,343,False,False,False,False,GS-12
+46,State Coordinator/Program Analyst,Department of the Interior / Office of the Secretary of the Interior,2017-02-13 00:00:00,2/28/2017,1,DC,343,False,False,False,False,GS-12
+47,US Territories Coordinator/Program Analyst,Department of the Interior / Office of the Secretary of the Interior,2017-02-13 00:00:00,2/28/2017,1,DC,343,False,False,False,False,GS-12
+48,Tribal Coordinator/Program Analyst,Department of the Interior / Office of the Secretary of the Interior,2017-02-13 00:00:00,2/28/2017,1,DC,343,False,False,False,False,GS-12
 49,Management and Program Analyst,Department of the Treasury / Internal Revenue Service,2/21/2017,3/15/2017,13,DC,0343,True,False,False,False,GS-13
 50,Statistician,Department of Agriculture / Natural Resources Conservation Service,2017-02-15 00:00:00,2017-02-21 00:00:00,1,DC,1530,True,False,False,False,GS-12
 51,Natural Resources Specialist,Department of Agriculture / Natural Resources Conservation Service,2017-02-15 00:00:00,2017-02-21 00:00:00,1,DC,401,True,False,False,False,GS-12
@@ -107,10 +107,10 @@ Listings,Position Title,Agency/Sub-Agency,Opening Date,Closing Date,Number of Po
 143,Regulatory Counsel,Department of Health and Human Services / Food and Drug Administration,2/28/2017,3/14/2017,1,MD,0301,True,True,False,False,GS-13
 144,Management and Program Analyst,Department of Education / Office of the Deputy Secretary of Education,2/23/2017,3/6/2017,1,DC,0343,True,True,False,False,GS-12
 145,Program Analyst,U.S. Agency for International Development,2/28/2017,3/10/2017,1,DC,0343,True,False,False,False,GS-12
-146,Program Analyst,U.S. Agency for International Development,2/28/2017,3/10/2017,1,DC,0343,True,False,False,False,GS-12
+146,Program Analyst,U.S. Agency for International Development,2/28/2017,3/07/2017,1,DC,0343,True,False,False,False,GS-12
 147,Regulations Specialist,Department of the Treasury / Alcohol and Tobacco Tax and Trade Bureau,2/24/2017,3/3/2017,1,DC,1801,True,True,False,False,GS-12
 149,Program Analyst,U.S. Agency for International Development,2/28/2017,3/10/2017,1,DC,0343,False,True,False,False,GS-13
-150,Nutritionist,Department of Agriculture / Food and Nutrition Service,2/23/2017,3/28/2017,3,VA,0630,True,True,True,False,GS-13
+150,Nutritionist,Department of Agriculture / Food and Nutrition Service,2/23/2017,3/20/2017,3,VA,0630,True,True,True,False,GS-13
 151,Nutritionist,Department of Agriculture,2/23/2017,3/14/2017,4,VA,0630,True,True,True,False,GS-13
 152,STIP Capacity Builder Program Specialist,U.S. Agency for International Development,2/28/2017,3/17/2017,1,DC,0301,False,True,False,False,GS-13
 153,Management and Program Analyst,Department of Health and Human Services / Centers for Disease Control and Prevention,2/23/2017,3/3/2017,1,GA,0343,True,False,False,False,GS-12
@@ -125,20 +125,20 @@ Listings,Position Title,Agency/Sub-Agency,Opening Date,Closing Date,Number of Po
 170,Budget Analyst,Department of Homeland Security / DHS Headquarters,2/28/2017,3/6/2017,3,DC,0560,True,True,False,False,GS-13
 171,Management and Program Analyst (MAPA),Department of Justice / Federal Bureau of Investigation,2/24/2017,3/9/2017,1,DC,0343,False,True,True,False,GS-13
 172,Operations Research Analyst,Department of Homeland Security / DHS Headquarters,2/28/2017,3/6/2017,3,DC,1515,True,True,False,False,GS-13
-173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/17/2017,1,GA,0301,True,True,True,False,GS-13
-173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/17/2017,1,GA,0301,True,True,True,False,GS-13
-173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/17/2017,1,GA,0301,True,True,True,False,GS-13
-173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/17/2017,1,GA,0301,True,True,True,False,GS-13
-173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/17/2017,1,GA,0301,True,True,True,False,GS-13
-173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/17/2017,1,GA,0301,True,True,True,False,GS-13
-173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/17/2017,1,GA,0301,True,True,True,False,GS-13
-173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/17/2017,1,GA,0301,True,True,True,False,GS-13
-173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/17/2017,1,GA,0301,True,True,True,False,GS-13
-173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/17/2017,1,GA,0301,True,True,True,False,GS-13
-173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/17/2017,1,GA,0301,True,True,True,False,GS-13
-173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/17/2017,1,GA,0301,True,True,True,False,GS-13
-173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/17/2017,1,GA,0301,True,True,True,False,GS-13
-173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/17/2017,1,GA,0301,True,True,True,False,GS-13
+173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/15/2017,1,GA,0301,True,True,True,False,GS-13
+173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/15/2017,1,GA,0301,True,True,True,False,GS-13
+173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/15/2017,1,GA,0301,True,True,True,False,GS-13
+173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/15/2017,1,GA,0301,True,True,True,False,GS-13
+173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/15/2017,1,GA,0301,True,True,True,False,GS-13
+173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/15/2017,1,GA,0301,True,True,True,False,GS-13
+173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/15/2017,1,GA,0301,True,True,True,False,GS-13
+173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/15/2017,1,GA,0301,True,True,True,False,GS-13
+173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/15/2017,1,GA,0301,True,True,True,False,GS-13
+173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/15/2017,1,GA,0301,True,True,True,False,GS-13
+173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/15/2017,1,GA,0301,True,True,True,False,GS-13
+173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/15/2017,1,GA,0301,True,True,True,False,GS-13
+173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/15/2017,1,GA,0301,True,True,True,False,GS-13
+173,Conciliation Specialist,"Department of Justice / Offices, Boards and Divisions",2/24/2017,3/15/2017,1,GA,0301,True,True,True,False,GS-13
 174,Digital Technology Program Specialist,U.S. Agency for International Development,2/28/2017,3/17/2017,1,DC,0301,False,True,False,False,GS-13
 175,Partnership Advisor,U.S. Agency for International Development,2/28/2017,3/10/2017,1,DC,0301,False,True,False,False,GS-13
 177,Equal Employment Opportunity Specialist,U.S. Agency for International Development,2/28/2017,3/17/2017,1,DC,0260,True,False,False,False,GS-13
@@ -164,8 +164,8 @@ Listings,Position Title,Agency/Sub-Agency,Opening Date,Closing Date,Number of Po
 189,EEO Counselor,Department of Veterans Affairs / Deputy Assistant Secretary for Office of Resolution Management,2/24/2017,3/10/2017,2,IL,0260,True,False,False,False,GS-11
 189,EEO Counselor,Department of Veterans Affairs / Deputy Assistant Secretary for Office of Resolution Management,2/24/2017,3/10/2017,2,IL,0260,True,False,False,False,GS-11
 190,Management & Program Analyst,Department of Homeland Security / U.S. Secret Service,2/24/2017,3/24/2017,10,DC,0343,True,True,False,False,GS-13
-191,DOE Employment Information Webinar,Department of Energy / National Nuclear Security Administration,2/24/2017,3/8/2017,1,NM,0000,True,False,False,False,GS-13
 191,DOE Employment Information Webinar,Department of Energy / National Nuclear Security Administration,2/24/2017,3/8/2017,11,NM,0000,True,False,False,False,GS-13
+191,DOE Employment Information Webinar,Department of Energy / National Nuclear Security Administration,2/24/2017,3/8/2017,1,NM,0000,True,False,False,False,GS-13
 192,EEO Investigator,Department of Veterans Affairs / Deputy Assistant Secretary for Office of Resolution Management,2/24/2017,3/10/2017,1,CA,0260,False,True,False,False,GS-12
 192,EEO Investigator,Department of Veterans Affairs / Deputy Assistant Secretary for Office of Resolution Management,2/24/2017,3/10/2017,1,CA,0260,False,True,False,False,GS-12
 193,EDITOR,Department of Veterans Affairs / Veterans Health Administration,2/24/2017,3/13/2017,2,VA,1071,False,True,False,False,GS-12
@@ -228,7 +228,7 @@ Listings,Position Title,Agency/Sub-Agency,Opening Date,Closing Date,Number of Po
 260,Public Affairs Officer,Department of State / Eastern Regional Personnel Center,2/28/2017,3/10/2017,1,DC,1035,True,False,False,False,GS-12
 261,Program Analyst,Office of Personnel Management,2/28/2017,3/14/2017,1,DC,0343,True,True,False,False,GS-13
 262,Foreign Affairs Officer,Department of State / Eastern Regional Personnel Center,3/6/2017,3/15/2017,1,DC,0130,True,False,False,False,GS-12
-263,Program Analyst,Department of Commerce / National Oceanic and Atmospheric Administration,2/28/2017,3/10/2017,2,MD,0000,True,True,True,False,GS-12
+263,Program Analyst,Department of Commerce / National Oceanic and Atmospheric Administration,2/28/2017,3/07/2017,2,MD,0000,True,True,True,False,GS-12
 265,Public Affairs Specialist,Department of the Interior / Bureau of Reclamation,2/28/2017,3/6/2017,1,DC,1035,True,True,True,False,GS-12
 266,Management and Program Analyst,Department of Education / Office of Postsecondary Education,2/28/2017,3/9/2017,1,DC,0343,True,False,False,False,GS-12
 267,Chemist,Environmental Protection Agency,2/27/2017,4/15/2017,3,DC,1320,False,False,True,False,GS-13
@@ -240,19 +240,19 @@ Listings,Position Title,Agency/Sub-Agency,Opening Date,Closing Date,Number of Po
 273,Biologist/Toxicolgist (Human Health Assessor,Environmental Protection Agency,2/28/2017,4/30/2017,10,DC,0401,False,True,False,False,GS-13
 274,Civil Rights Analyst,Department of Health and Human Services / Office of the Secretary of Health and Human Services,2/28/2017,3/8/2017,1,DC,0160,True,True,False,False,GS-12
 275,Environmental Health Scientist (Epidemiologist,Environmental Protection Agency,2/28/2017,4/30/2017,3,DC,0601,False,True,False,False,GS-13
-276,Program Analyst,Department of the Interior / Office of the Secretary,2/28/2017,5/31/2017,1,DC,0343,False,False,True,False,GS-13
+276,Program Analyst,Department of the Interior / Office of the Secretary,2/28/2017,3/07/2017,1,DC,0343,False,False,True,False,GS-13
 277,General Engineer,Department of Commerce / Bureau of Industry and Security,2/28/2017,3/15/2017,1,DC,0801,False,False,True,False,GS-13
 278,Management and Program Analyst,Department of Homeland Security / Immigration and Customs Enforcement,2/28/2017,3/17/2017,1,DC,0343,False,True,False,False,GS-12
 279,Natural Resources Specialist,Department of Agriculture / Natural Resources Conservation Services,3/1/2017,3/7/2017,1,DC,0401,True,False,False,False,GS-12
 280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,1,MD,0107,True,True,False,False,GS-12
-280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,4,MD,0107,True,True,False,False,GS-12
-280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,1,MD,0107,True,True,False,False,GS-12
 280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,1,MD,0107,True,True,False,False,GS-12
 280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,1,MD,0107,True,True,False,False,GS-12
 280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,2,MD,0107,True,True,False,False,GS-12
+280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,4,MD,0107,True,True,False,False,GS-12
+280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,1,MD,0107,True,True,False,False,GS-12
+281,Social Science Research Analyst,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,5,MD,0101,True,True,False,False,GS-12
 281,Social Science Research Analyst,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,1,MD,0101,True,True,False,False,GS-12
 281,Social Science Research Analyst,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,2,MD,0101,True,True,False,False,GS-12
-281,Social Science Research Analyst,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,5,MD,0101,True,True,False,False,GS-12
 282,Management Analyst,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,1,MD,0343,True,True,False,False,GS-12
 283,Budget Analyst,Department of State,3/18/2017,3/23/2017,1,DC,0560,True,False,False,False,GS-11
 284,Management Analyst,Department of State / Eastern Regional Personnel Center,3/2/2017,3/9/2017,1,DC,0343,True,False,False,False,GS-12
@@ -298,3 +298,7 @@ Listings,Position Title,Agency/Sub-Agency,Opening Date,Closing Date,Number of Po
 331,Program Specialist,Department of Health and Human Services / Centers for Disease Control and Prevention,3/16/2017,3/21/2017,1,GA,0301,False,True,False,False,GS-13
 332,Foreign Affairs Officer,Department of State,3/18/2017,3/23/2017,1,DC,0130,True,False,False,False,GS-11
 333,IT Specialist,Department of State,3/18/2017,3/23/2017,1,DC,0130,False,True,False,False,GS-11
+334,Program Analyst,Department of Veterans Affairs / Veterans Health Administration,3/20/2017,3/24/2017,1,NC,0343,False,True,False,False,GS-12
+335,Program Analyst,Department of Veterans Affairs / Veterans Health Administration,3/20/2017,3/24/2017,1,NC,0343,False,True,False,False,GS-12
+337,Writer/Editor,Department of Veterans Affairs / Veterans Health Administration,3/20/2017,3/24/2017,1,NC,1082,False,True,False,False,GS-12
+339,Natural Resources Specialist,Department of Agriculture / Natural Resources Conservation Services,3/20/2017,3/24/2017,1,DC,0401,True,False,False,False,GS-12
