@@ -164,8 +164,8 @@ Listings,Position Title,Agency/Sub-Agency,Opening Date,Closing Date,Number of Po
 189,EEO Counselor,Department of Veterans Affairs / Deputy Assistant Secretary for Office of Resolution Management,2/24/2017,3/10/2017,2,IL,0260,True,False,False,False,GS-11
 189,EEO Counselor,Department of Veterans Affairs / Deputy Assistant Secretary for Office of Resolution Management,2/24/2017,3/10/2017,2,IL,0260,True,False,False,False,GS-11
 190,Management & Program Analyst,Department of Homeland Security / U.S. Secret Service,2/24/2017,3/24/2017,10,DC,0343,True,True,False,False,GS-13
-191,DOE Employment Information Webinar,Department of Energy / National Nuclear Security Administration,2/24/2017,3/8/2017,11,NM,0000,True,False,False,False,GS-13
 191,DOE Employment Information Webinar,Department of Energy / National Nuclear Security Administration,2/24/2017,3/8/2017,1,NM,0000,True,False,False,False,GS-13
+191,DOE Employment Information Webinar,Department of Energy / National Nuclear Security Administration,2/24/2017,3/8/2017,11,NM,0000,True,False,False,False,GS-13
 192,EEO Investigator,Department of Veterans Affairs / Deputy Assistant Secretary for Office of Resolution Management,2/24/2017,3/10/2017,1,CA,0260,False,True,False,False,GS-12
 192,EEO Investigator,Department of Veterans Affairs / Deputy Assistant Secretary for Office of Resolution Management,2/24/2017,3/10/2017,1,CA,0260,False,True,False,False,GS-12
 193,EDITOR,Department of Veterans Affairs / Veterans Health Administration,2/24/2017,3/13/2017,2,VA,1071,False,True,False,False,GS-12
@@ -247,12 +247,12 @@ Listings,Position Title,Agency/Sub-Agency,Opening Date,Closing Date,Number of Po
 280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,1,MD,0107,True,True,False,False,GS-12
 280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,1,MD,0107,True,True,False,False,GS-12
 280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,1,MD,0107,True,True,False,False,GS-12
-280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,2,MD,0107,True,True,False,False,GS-12
-280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,4,MD,0107,True,True,False,False,GS-12
 280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,1,MD,0107,True,True,False,False,GS-12
-281,Social Science Research Analyst,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,5,MD,0101,True,True,False,False,GS-12
+280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,4,MD,0107,True,True,False,False,GS-12
+280,Health Insurance Specialist,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,2,MD,0107,True,True,False,False,GS-12
 281,Social Science Research Analyst,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,1,MD,0101,True,True,False,False,GS-12
 281,Social Science Research Analyst,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,2,MD,0101,True,True,False,False,GS-12
+281,Social Science Research Analyst,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,5,MD,0101,True,True,False,False,GS-12
 282,Management Analyst,Department of Health and Human Services / Centers for Medicare & Medicaid Services,3/6/2017,3/10/2017,1,MD,0343,True,True,False,False,GS-12
 283,Budget Analyst,Department of State,3/18/2017,3/23/2017,1,DC,0560,True,False,False,False,GS-11
 284,Management Analyst,Department of State / Eastern Regional Personnel Center,3/2/2017,3/9/2017,1,DC,0343,True,False,False,False,GS-12
@@ -265,7 +265,7 @@ Listings,Position Title,Agency/Sub-Agency,Opening Date,Closing Date,Number of Po
 294,Program Analyst,National Science Foundation,3/13/2017,3/22/2017,1,VA,0343,True,True,False,False,GS-12
 295,Human Resource Specialist,Department of Homeland Security / U.S. Secret Service,3/8/2017,3/24/2017,15,DC,0201,True,False,False,False,GS-12
 296,Human Resource Specialist,Department of Homeland Security / U.S. Secret Service,3/8/2017,3/24/2017,15,DC,0201,True,False,False,False,GS-12
-297,Public Health Analyst (Policy),Department of Health and Human Services / Food and Drug Administration,3/17/2017,3/24/2017,2,MD,0685,True,False,False,False,GS-12
+297,Public Health Analyst (Policy),Department of Health and Human Services / Food and Drug Administration,3/17/2017,3/21/2017,2,MD,0685,True,False,False,False,GS-12
 298,Human Resource Specialist,Department of Homeland Security / U.S. Secret Service,3/8/2017,3/24/2017,15,DC,0201,True,False,False,False,GS-12
 300,Financial Management Analyst ? 0501,Department of State,3/16/2017,3/30/2017,1,DC,0501,True,False,False,False,GS-12
 302,Budget Analyst,Department of Homeland Security / U.S. Secret Service,3/9/2017,3/31/2017,15,DC,0560,True,False,False,False,GS-12
@@ -301,4 +301,9 @@ Listings,Position Title,Agency/Sub-Agency,Opening Date,Closing Date,Number of Po
 334,Program Analyst,Department of Veterans Affairs / Veterans Health Administration,3/20/2017,3/24/2017,1,NC,0343,False,True,False,False,GS-12
 335,Program Analyst,Department of Veterans Affairs / Veterans Health Administration,3/20/2017,3/24/2017,1,NC,0343,False,True,False,False,GS-12
 337,Writer/Editor,Department of Veterans Affairs / Veterans Health Administration,3/20/2017,3/24/2017,1,NC,1082,False,True,False,False,GS-12
+338,Trade Enforcement Analyst,Executive Office of the President / Office of the U.S. Trade Representative,3/21/2017,4/28/2017,1,DC,0301,True,True,False,False,GS-13
 339,Natural Resources Specialist,Department of Agriculture / Natural Resources Conservation Services,3/20/2017,3/24/2017,1,DC,0401,True,False,False,False,GS-12
+342,Policy Advisor,Department of the Treasury / Departmental Offices,3/21/2017,3/31/2017,1,DC,0301,False,True,True,False,GS-13
+343,Equal Employment Opportunity Specialist,Department of Homeland Security / Immigration and Customs Enforcement,3/21/2017,4/3/2017,4,DC,0260,True,True,False,False,GS-11
+344,Financial Administration and Program,"Department of the Air Force / Headquarters, Air Force Space Command",3/21/2017,4/3/2017,5,CA,0501,True,False,False,False,GS-12
+345,Budget Analyst,"Department of the Air Force / Headquarters, Air Force Space Command",3/21/2017,4/3/2017,5,CA,0560,True,False,False,False,GS-12
