@@ -11,18 +11,18 @@ From the second notebook, some interesting trends can be seen.
 
 First, the number of postings and positions posted on the TMS started quite slow, but rapidly grew before the virtual hiring fair held on 02/28/2017.
 
-<img src="./PMF_GitHub/DailyPositionsPostings170320.png" />
+<img src="./PMF_GitHub/DailyPositionsPostings.png" />
 
 Second, while there were more positions (628) than 2017 PMF Finalists (417), a relatively small number of postings contain most of the positions.
 
-<img src="./PMF_GitHub/Composite_Postings_Positions_Percent170320.png" />
+<img src="./PMF_GitHub/TopPercentage.png" />
 
 Third, the distribution in which agencies are posting, the titles of posted positions, and the location of each position can be made.
 
-<img src="./PMF_GitHub/Agency170320.png" />
+<img src="./PMF_GitHub/TopAgencies.png" />
 
-<img src="./PMF_GitHub/Position170320.png" />
+<img src="./PMF_GitHub/TopPositions.png" />
 
-<img src="./PMF_GitHub/State170320.png" />
+<img src="./PMF_GitHub/TopStates.png" />
 
 csv file for combined analysis may be found in folder PMF_GitHub
