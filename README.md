@@ -25,4 +25,4 @@ Third, the distribution in which agencies are posting, the titles of posted posi
 
 <img src="./PMF_GitHub/TopStates.png" />
 
-csv file for combined analysis may be found in folder PMF_GitHub
+csv file for combined analysis may be found in folder PMF_GitHub. Postings with multiple locations are split in the csv file so each location has a unique row.
