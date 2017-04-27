@@ -1,28 +1,46 @@
-# PMF TMS Scraping and Analysis
-iPython notebooks for collecting and analyzing data on the Presidential Management Fellows program
+# A collection of data and analysis of the PMF program
+This repository contains csv files of collected data, iPython notebooks, select images, and an overall report on various elements of the Presidential Management Fellows Program.
 
 Note: This is an ongoing project and all graphs, tables, and conclusions are subject to change.
 
-Notebook 'PMF_TMS_Scrape_and_Study_Github.ipynb' may be used (by those with access) to scrape the Talent Management System of job postings and do some analysis of the results. Scraping results in a snapshot of the TMS's current available postings.
+The report is saved as a pdf under GitHub_PMF_Report.pdf
 
-Notebook 'Combined_Analysis_GitHub.ipynb' does analysis on a composite of several different snapshots. Most postings to the TMS up to 03/29/2017 are in this composite.
+That report has 3 main sections:
 
-From the second notebook, some interesting trends can be seen.
+1) The recent history of the PMF Finalists, focusing on the growth in the share of Finalists from a few pipeline schools
 
-First, the number of postings and positions posted on the TMS started quite slow, but rapidly grew before the virtual hiring fair held on 02/28/2017.
+2) A look into the advanced degrees and appointment rates for the 2016 and 2017 Finalist classes
+
+3) Some analysis on the jobs offered to the 2017 Finalists this year.
+
+Most of the data and ipython notebooks used in the report are saved in the folder PMF_Github. Additionally, select figures from that report are saved in that folder to be included in this readme.
+
+I plan on updating the data and python notebooks on a semi-frequent basis. The overall report will be updated less frequently.
+
+Select figures from report:
+
+Trend in fraction of Finalists coming from the most finalist producing schools:
+
+<img src="./PMF_GitHub/PMF_Finalists_TopPercent.png" />
+
+Over recent years, the top schools have had their share of Finalists increase at the expense of other, less prolific institutions.
+
+Appoint rate for 2017 Finalists:
+
+<img src="./PMF_GitHub/AppointmentRates2017.png" />
+
+Number of postings and positions available on the PMF job board (TMS) over the course of the year:
 
 <img src="./PMF_GitHub/DailyPositionsPostings.png" />
 
-Second, while there were more positions (700) than 2017 PMF Finalists (417), a relatively small subset of the total number of postings (275) contain most of the positions.
+Third, the distributions in which agencies are posting, the titles of posted positions, and the location of each position:
 
-<img src="./PMF_GitHub/TopPercentage.png" />
+<img src="./PMF_GitHub/Agency_10.png" />
 
-Third, the distribution in which agencies are posting, the titles of posted positions, and the location of each position can be made.
+<img src="./PMF_GitHub/Position_Title_20.png" />
 
-<img src="./PMF_GitHub/TopAgencies.png" />
+<img src="./PMF_GitHub/State_10.png" />
 
-<img src="./PMF_GitHub/TopPositions.png" />
+(Plus a word cloud of the descriptions of positions:)
 
-<img src="./PMF_GitHub/TopStates.png" />
-
-csv file for combined analysis may be found in folder PMF_GitHub. Postings with multiple locations are split in the csv file so each location has a unique row.
+<img src="./PMF_GitHub/Description of PositionWC_5.png" />
