@@ -17,6 +17,8 @@ Most of the data and ipython notebooks used in the report are saved in the folde
 
 I plan on updating the data and python notebooks on a semi-frequent basis. The overall report will be updated less frequently.
 
+(I should also point out I wrote the PMF Office to ask if I could collect statistics on the process, and received a reply that said: "Basically anything you find on the PMF website is public knowledge.")
+
 Select figures from report:
 
 Trend in fraction of Finalists coming from the most finalist producing schools:
