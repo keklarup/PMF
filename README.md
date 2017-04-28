@@ -33,7 +33,9 @@ Number of postings and positions available on the PMF job board (TMS) over the c
 
 <img src="./PMF_GitHub/DailyPositionsPostings.png" />
 
-Third, the distributions in which agencies are posting, the titles of posted positions, and the location of each position:
+(As of April 27, 2017: total postings: 361 Total positions: 920)
+
+The distributions in which agencies are posting, the titles of posted positions, and the location of each position:
 
 <img src="./PMF_GitHub/Agency_10.png" />
 
