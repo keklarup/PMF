@@ -247,15 +247,15 @@ Listings,Series,Position Title,Number of Positions,Agency/Sub-Agency,State,Openi
 277,801,General Engineer,1,Department of Commerce / Bureau of Industry and Security,DC,2017-02-28,2017-03-15,15 days 00:00:00.000000000,False,False,True,False,GS-13
 278,343,Management and Program Analyst,1,Department of Homeland Security / Immigration and Customs Enforcement,DC,2017-02-28,2017-03-17,17 days 00:00:00.000000000,False,True,False,False,GS-12
 279,401,Natural Resources Specialist,1,Department of Agriculture / Natural Resources Conservation Services,DC,2017-03-01,2017-03-07,6 days 00:00:00.000000000,True,False,False,False,GS-12
+280,107,Health Insurance Specialist,1,Department of Health and Human Services / Centers for Medicare & Medicaid Services,MD,2017-03-06,2017-03-10,4 days 00:00:00.000000000,True,True,False,False,GS-12
+280,107,Health Insurance Specialist,1,Department of Health and Human Services / Centers for Medicare & Medicaid Services,MD,2017-03-06,2017-03-10,4 days 00:00:00.000000000,True,True,False,False,GS-12
 280,107,Health Insurance Specialist,2,Department of Health and Human Services / Centers for Medicare & Medicaid Services,MD,2017-03-06,2017-03-10,4 days 00:00:00.000000000,True,True,False,False,GS-12
-280,107,Health Insurance Specialist,1,Department of Health and Human Services / Centers for Medicare & Medicaid Services,MD,2017-03-06,2017-03-10,4 days 00:00:00.000000000,True,True,False,False,GS-12
-280,107,Health Insurance Specialist,1,Department of Health and Human Services / Centers for Medicare & Medicaid Services,MD,2017-03-06,2017-03-10,4 days 00:00:00.000000000,True,True,False,False,GS-12
 280,107,Health Insurance Specialist,1,Department of Health and Human Services / Centers for Medicare & Medicaid Services,MD,2017-03-06,2017-03-10,4 days 00:00:00.000000000,True,True,False,False,GS-12
 280,107,Health Insurance Specialist,1,Department of Health and Human Services / Centers for Medicare & Medicaid Services,MD,2017-03-06,2017-03-10,4 days 00:00:00.000000000,True,True,False,False,GS-12
 280,107,Health Insurance Specialist,4,Department of Health and Human Services / Centers for Medicare & Medicaid Services,MD,2017-03-06,2017-03-10,4 days 00:00:00.000000000,True,True,False,False,GS-12
 281,101,Social Science Research Analyst,1,Department of Health and Human Services / Centers for Medicare & Medicaid Services,MD,2017-03-06,2017-03-10,4 days 00:00:00.000000000,True,True,False,False,GS-12
-281,101,Social Science Research Analyst,5,Department of Health and Human Services / Centers for Medicare & Medicaid Services,MD,2017-03-06,2017-03-10,4 days 00:00:00.000000000,True,True,False,False,GS-12
 281,101,Social Science Research Analyst,2,Department of Health and Human Services / Centers for Medicare & Medicaid Services,MD,2017-03-06,2017-03-10,4 days 00:00:00.000000000,True,True,False,False,GS-12
+281,101,Social Science Research Analyst,5,Department of Health and Human Services / Centers for Medicare & Medicaid Services,MD,2017-03-06,2017-03-10,4 days 00:00:00.000000000,True,True,False,False,GS-12
 282,343,Management Analyst,1,Department of Health and Human Services / Centers for Medicare & Medicaid Services,MD,2017-03-06,2017-03-10,4 days 00:00:00.000000000,True,True,False,False,GS-12
 283,560,Budget Analyst,1,Department of State,DC,2017-03-18,2017-03-23,5 days 00:00:00.000000000,True,False,False,False,GS-11
 284,343,Management Analyst,1,Department of State / Eastern Regional Personnel Center,DC,2017-03-02,2017-03-09,7 days 00:00:00.000000000,True,False,False,False,GS-12
@@ -276,6 +276,7 @@ Listings,Series,Position Title,Number of Positions,Agency/Sub-Agency,State,Openi
 302,560,Budget Analyst,15,Department of Homeland Security / U.S. Secret Service,DC,2017-03-09,2017-03-31,22 days 00:00:00.000000000,True,False,False,False,GS-12
 303,501,Financial Systems Analyst,15,Department of Homeland Security / U.S. Secret Service,DC,2017-03-09,2017-03-31,22 days 00:00:00.000000000,True,False,False,False,GS-13
 304,801,General Engineer,4,Department of the Air Force / Space Command and NORAD,CA,2017-03-09,2017-03-24,15 days 00:00:00.000000000,True,False,False,False,GS-12
+305,260,Equal Employment Opportunity Specialist,1,Department of Health and Human Services / Food and Drug Administration,MD,2017-05-04,2017-05-17,13 days 00:00:00.000000000,False,True,False,False,GS-13
 308,1101,Acquisition Program Management Specialist,36,Department of the Air Force / Space Command and NORAD,CA,2017-03-09,2017-03-23,14 days 00:00:00.000000000,True,False,False,False,GS-12
 310,1102,Contract Specialist,5,Department of the Air Force / Space Command and NORAD,CA,2017-03-09,2017-03-22,13 days 00:00:00.000000000,True,False,False,False,GS-12
 311,1102,Contract Specialist,5,Department of the Air Force / Space Command and NORAD,CA,2017-03-09,2017-03-22,13 days 00:00:00.000000000,True,False,False,False,GS-12
@@ -368,15 +369,15 @@ Listings,Series,Position Title,Number of Positions,Agency/Sub-Agency,State,Openi
 407,401,Natural Resource Specialist/Social Scientist,1,Department of Agriculture / Forest Service,CO,2017-04-17,2017-04-21,4 days 00:00:00.000000000,True,False,False,False,GS-11
 408,560,Budget Analyst,1,Department of Energy / National Nuclear Security Administration,NM,2017-04-25,2017-05-03,8 days 00:00:00.000000000,True,True,False,False,GS-13
 408,560,Budget Analyst,1,Department of Energy / National Nuclear Security Administration,NM,2017-04-25,2017-05-03,8 days 00:00:00.000000000,True,True,False,False,GS-13
-409,340,Program Manager,1,Department of Energy / National Nuclear Security Administration,DC,2017-04-21,2017-04-27,6 days 00:00:00.000000000,True,True,False,False,GS-14
+409,340,Program Manager,1,Department of Energy / National Nuclear Security Administration,DC,2017-04-21,2017-05-02,11 days 00:00:00.000000000,True,True,False,False,GS-14
 410,130,Foreign Affairs Officer,1,Department of State,DC,2017-04-11,2017-04-14,3 days 00:00:00.000000000,True,False,False,False,GS-11
 411,131,International Relations Specialist,1,Department of Homeland Security / Customs and Border Protection,DC,2017-04-13,2017-04-19,6 days 00:00:00.000000000,True,False,False,False,GS-12
 413,343,Management Analyst,2,Department of Agriculture / Natural Resources Conservation Services,DC,2017-04-11,2017-04-17,6 days 00:00:00.000000000,True,False,False,False,GS-12
 414,130,Foreign Affairs Officer,1,Department of State,DC,2017-04-11,2017-04-28,17 days 00:00:00.000000000,True,False,False,False,GS-11
 415,343,Program Analyst,1,Department of State,DC,2017-04-13,2017-04-27,14 days 00:00:00.000000000,True,False,False,False,GS-11
 416,130,Foreign Affairs Officer,1,Department of State,DC,2017-04-12,2017-04-26,14 days 00:00:00.000000000,True,False,False,False,GS-11
-417,301,PMF (Program Specialist),40,Department of Health and Human Services / National Institutes of Health,MD,2017-04-24,2017-04-28,4 days 00:00:00.000000000,True,True,False,False,GS-13
 417,301,PMF (Program Specialist),1,Department of Health and Human Services / National Institutes of Health,MD,2017-04-24,2017-04-28,4 days 00:00:00.000000000,True,True,False,False,GS-13
+417,301,PMF (Program Specialist),40,Department of Health and Human Services / National Institutes of Health,MD,2017-04-24,2017-04-28,4 days 00:00:00.000000000,True,True,False,False,GS-13
 418,671,Health System Specialist,1,Department of Veterans Affairs / Veterans Health Administration,NY,2017-04-12,2017-05-03,21 days 00:00:00.000000000,False,True,False,False,GS-13
 419,671,Health Systems Specialist,1,Department of Veterans Affairs / Veterans Health Administration,NY,2017-04-12,2017-05-03,21 days 00:00:00.000000000,False,True,False,False,GS-12
 421,601,PMF (Health Specialist),13,Department of Health and Human Services / National Institutes of Health,MD,2017-04-24,2017-04-28,4 days 00:00:00.000000000,False,True,False,False,GS-13
@@ -401,9 +402,35 @@ Listings,Series,Position Title,Number of Positions,Agency/Sub-Agency,State,Openi
 440,801,General Engineer,1,Department of Energy,CO,2017-04-20,2017-04-27,7 days 00:00:00.000000000,False,True,False,False,GS-12
 442,343,Staff Officer/Management Analyst,1,Department of State,DC,2017-04-21,2017-04-28,7 days 00:00:00.000000000,True,False,False,False,GS-11
 443,401,Partnership Coordinator,1,Department of Agriculture / Forest Service,SC,2017-04-24,2017-04-28,4 days 00:00:00.000000000,True,False,False,False,GS-11
+444,0,Trade Specailist,5,"Department of Commerce / Commerce, International Trade Administration",DC,2017-05-03,2017-05-24,21 days 00:00:00.000000000,True,True,True,False,GS-13
 445,1001,CONSUMER EDUCATION SPECIALIST,1,Federal Trade Commission,DC,2017-04-25,2017-05-08,13 days 00:00:00.000000000,False,False,True,False,GS-13
 447,401,Natural Resource Specailist (Landscape Scale Planner),1,Department of Agriculture / Forest Service,PA,2017-04-24,2017-04-28,4 days 00:00:00.000000000,True,True,True,False,GS-12
 449,101,Monitoring and Evaluation Coordinator,1,Department of Agriculture / Forest Service,NM,2017-04-25,2017-04-29,4 days 00:00:00.000000000,True,False,False,False,GS-12
+450,1315,Zone Hydrologist,1,Department of Agriculture / Forest Service,UT,2017-04-28,2017-05-02,4 days 00:00:00.000000000,True,True,False,False,GS-11
+451,343,Maangement and Program Analyst,2,Department of Homeland Security / Customs and Border Protection,DC,2017-05-01,2017-05-10,9 days 00:00:00.000000000,True,False,False,False,GS-12
+452,130,Foreign Affairs Officer,1,Department of State,DC,2017-04-28,2017-04-28,0 days 00:00:00.000000000,True,False,False,False,GS-11
 454,560,"Budget Analyst, GS9/11",1,Department of Justice / Federal Bureau of Investigation,DC,2017-04-26,2017-04-30,4 days 00:00:00.000000000,True,True,False,False,GS-14
 455,1550,Computer Scientist,1,Department of the Treasury / Internal Revenue Service,DC,2017-04-26,2017-04-30,4 days 00:00:00.000000000,False,False,True,False,GS-13
+456,2101,Transportation Program Specialist,1,Department of Transportation / Federal Transit Administration,NY,2017-04-28,2017-05-19,21 days 00:00:00.000000000,True,True,True,False,GS-12
 457,101,Social Scientist,1,Department of the Treasury / Internal Revenue Service,DC,2017-04-26,2017-04-30,4 days 00:00:00.000000000,False,False,True,False,GS-13
+458,101,Research Social Scientist,1,Department of Agriculture / Forest Service,WA,2017-04-28,2017-05-02,4 days 00:00:00.000000000,True,True,False,False,GS-12
+459,2210,IT Specialist,1,Department of State,DC,2017-04-28,2017-05-05,7 days 00:00:00.000000000,False,True,False,False,GS-11
+461,685,Public Health Analyst,1,Department of Health and Human Services / Centers for Disease Control and Prevention,GA,2017-04-28,2017-05-04,6 days 00:00:00.000000000,True,False,False,False,GS-12
+462,132,Intelligence Research Specialist,1,Department of State,DC,2017-05-01,2017-05-01,0 days 00:00:00.000000000,False,True,False,False,GS-11
+463,301,Health Policy and Issues Management Analyst,1,Department of Health and Human Services / Centers for Disease Control and Prevention,GA,2017-04-28,2017-05-04,6 days 00:00:00.000000000,True,False,False,False,GS-12
+464,685,Public Health Analyst (Policy and Issues Management),1,Department of Health and Human Services / Centers for Disease Control and Prevention,GA,2017-04-28,2017-05-04,6 days 00:00:00.000000000,True,False,False,False,GS-12
+465,132,Intelligence Research Specialist,1,Department of State,DC,2017-05-01,2017-05-01,0 days 00:00:00.000000000,True,False,False,False,GS-11
+466,343,Management and Program Analyst,1,Department of Health and Human Services / Centers for Disease Control and Prevention,GA,2017-04-28,2017-05-03,5 days 00:00:00.000000000,True,False,False,False,GS-12
+467,1170,Realty Specialist,1,Department of Agriculture / Forest Service,CO,2017-05-01,2017-05-12,11 days 00:00:00.000000000,True,True,False,False,GS-11
+468,110,Economist,1,Department of Agriculture / Forest Service,OR,2017-05-04,2017-05-08,4 days 00:00:00.000000000,True,True,False,False,GS-12
+469,130,Foreign Affairs Officer,1,Department of State,DC,2017-05-02,2017-05-02,0 days 00:00:00.000000000,True,False,False,False,GS-11
+471,1501,Data Analyst,2,Department of Agriculture / Food Safety and Inspection Service,DC,2017-05-05,2017-05-11,6 days 00:00:00.000000000,False,True,True,False,GS-13
+472,301,Administrative Management Specialist,1,Department of Agriculture / Forest Service,NM,2017-05-03,2017-05-07,4 days 00:00:00.000000000,True,True,False,False,GS-12
+473,343,Management and Program Analyst,1,Department of Health and Human Services / Centers for Disease Control and Prevention,GA,2017-05-04,2017-05-10,6 days 00:00:00.000000000,True,False,False,False,GS-12
+474,685,Public Health Analyst,1,Department of Health and Human Services / Centers for Disease Control and Prevention,GA,2017-05-04,2017-05-10,6 days 00:00:00.000000000,True,False,False,False,GS-12
+476,905,Junior Attorney,1,African Development Foundation,DC,2017-05-04,2017-05-09,5 days 00:00:00.000000000,False,True,False,False,GS-12
+478,132,Intelligence Research Specialist,1,Department of State,DC,2017-05-08,2017-05-08,0 days 00:00:00.000000000,False,True,False,False,GS-11
+479,301,Grant Program Specialist,5,"Department of Justice / Offices, Boards and Divisions",DC,2017-05-05,2017-05-19,14 days 00:00:00.000000000,True,False,False,False,GS-13
+480,1140,Trade Compliance Analyst,7,"Department of Commerce / Commerce, International Trade Administration",DC,2017-05-08,2017-05-24,16 days 00:00:00.000000000,True,True,True,False,GS-13
+481,301,Conciliation Specialist,1,"Department of Justice / Offices, Boards and Divisions",FL,2017-05-05,2017-05-19,14 days 00:00:00.000000000,True,True,True,False,GS-13
+481,301,Conciliation Specialist,1,"Department of Justice / Offices, Boards and Divisions",FL,2017-05-05,2017-05-19,14 days 00:00:00.000000000,True,True,True,False,GS-13
