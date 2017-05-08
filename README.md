@@ -23,7 +23,7 @@ Select figures from report:
 
 Trend in fraction of Finalists coming from the most finalist producing schools:
 
-<img src="./PMF_GitHub/PMF_Finalists_TopPercent.png" />
+<img src="./PMF_GitHub/PMF_Finalists_Top25.png" />
 
 Over recent years, the top schools have had their share of Finalists increase at the expense of other, less prolific institutions.
 
