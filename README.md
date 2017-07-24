@@ -31,6 +31,10 @@ Appoint rate for 2017 Finalists:
 
 <img src="./PMF_GitHub/AppointmentRates2017.png" />
 
+And appointment rate for 2017 Finalists with projections:
+
+<img src="./PMF_GitHub/AppointmentProjections2017.png" />
+
 Number of postings and positions available on the PMF job board (TMS) over the course of the year:
 
 <img src="./PMF_GitHub/DailyPositionsPostings.png" />
