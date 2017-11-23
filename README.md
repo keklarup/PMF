@@ -27,11 +27,7 @@ Trend in fraction of Finalists coming from the most finalist producing schools:
 
 Over recent years, the top schools have had their share of Finalists increase at the expense of other, less prolific institutions.
 
-Appoint rate for 2017 Finalists:
-
-<img src="./PMF_GitHub/AppointmentRates2017.png" />
-
-And appointment rate for 2017 Finalists with projections:
+Appointment rate for 2017 Finalists with projections:
 
 <img src="./PMF_GitHub/AppointmentProjections2017.png" />
 
