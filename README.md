@@ -25,19 +25,21 @@ Trend in fraction of Finalists coming from the most finalist producing schools:
 
 <img src="./PMF_GitHub/PMF_Finalists_Top25.png" />
 
-Over recent years, the top schools have had their share of Finalists increase at the expense of other, less prolific institutions.
+From 2012-2017, the top schools have had their share of Finalists increase at the expense of other, less prolific institutions. The 2018 class saw a change that is helping to shift the trend, but more data is needed to see if the pattern holds.
 
 Appointment rate for 2017 Finalists with projections:
 
 <img src="./PMF_GitHub/AppointmentProjections2017.png" />
 
+The PMF Office removed public access to this data before the 2017 eligibility year was complete. Following that removal, data could only be acquired by requesting it from the PMF Office (shown in red). However, appointment rate does seem to have landed in teh PMF Office's target range of 50-60% of total finalists.
+
 Number of postings and positions available on the PMF job board (TMS) over the course of the year:
 
 <img src="./PMF_GitHub/DailyPositionsPostings.png" />
 
-(As of August 28, 2017: total postings: 521 Total positions: 1174)
+Once I converted from Finalist to Fellow status, I lost access to the TMS. So data is only available through August 28th. As of August 28, 521 posting had been placed onto the TMS (note, some of these were repeats: same job being posted later in the year). Many of these postings were for multiple positions. As of August 28 the total number of potential positions offered via the TMS was 1174 (note: many of these were never expected to be filled).
 
-The distributions in which agencies are posting, the titles of posted positions, and the location of each position:
+The distributions in which agencies are posting, the titles of posted positions, and the location of each position (last date of record: 08/28/2017):
 
 <img src="./PMF_GitHub/Agency_10.png" />
 
