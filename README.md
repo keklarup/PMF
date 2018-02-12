@@ -3,7 +3,7 @@ This repository contains csv files of collected data, iPython notebooks, select 
 
 Note: This is an ongoing project and all graphs, tables, and conclusions are subject to change.
 
-The report is saved as a pdf under GitHub_PMF_Report.pdf
+The report is saved as a pdf under GitHub_PMF_Report.pdf, and is out of date compared to the selected images/data also found in this repository.
 
 That report has 3 main sections:
 
